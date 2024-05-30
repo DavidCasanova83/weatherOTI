@@ -8,11 +8,9 @@ https://chatgpt.com/share/a342abe4-7abe-481c-bb19-cfa0dc16d6d4
 
 https://www.youtube.com/watch?v=161il_odoc8
 
-## Tuto weather Javascript 
+## Tuto weather Javascript
 
 https://www.youtube.com/watch?v=qC_DtdhH-J4
-
-
 
 ## Le lien des adresses pour récupérer les informations :
 
@@ -22,5 +20,6 @@ La Palud-sur-Verdon - 04120 => https://www.meteociel.fr/previsions/1665/la_palud
 Annot - 04240 => https://www.meteociel.fr/previsions/1556/annot.htm
 Entrevaux - 04320 => https://www.meteociel.fr/previsions/1610/entrevaux.htm
 
+## Mettre ce programme sur OVH et y mettre un CRON
 
-## Faire
+Envoyer les informations et les stockers sur le SFTP plan.verdontourisme.com

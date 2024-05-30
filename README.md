@@ -1,6 +1,5 @@
 # weatherOTI
 
-
 ### Pré-requis
 
 Python + venv + pip
@@ -30,7 +29,7 @@ python3 -m venv myenv
 source myenv/bin/activate
 ```
 
-Désactiver l'environnement virtuel
+Désactiver l'environnement virtuel dans le terminal d'origine !
 
 ```bash
 deactivate
