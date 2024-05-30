@@ -1,0 +1,29 @@
+{
+  "locationsWeather": [
+    {
+      "name": "Colmars",
+      "postal_code": "04370",
+      "url": "https://www.meteociel.fr/previsions/1597/colmars.htm"
+    },
+    {
+      "name": "Saint-André-les-Alpes",
+      "postal_code": "04170",
+      "url": "https://www.meteociel.fr/previsions/1689/saint_andre_les_alpes.htm"
+    },
+    {
+      "name": "La Palud-sur-Verdon",
+      "postal_code": "04120",
+      "url": "https://www.meteociel.fr/previsions/1665/la_palud_sur_verdon.htm"
+    },
+    {
+      "name": "Annot",
+      "postal_code": "04240",
+      "url": "https://www.meteociel.fr/previsions/1556/annot.htm"
+    },
+    {
+      "name": "Entrevaux",
+      "postal_code": "04320",
+      "url": "https://www.meteociel.fr/previsions/1610/entrevaux.htm"
+    }
+  ]
+}

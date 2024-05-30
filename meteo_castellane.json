@@ -1,0 +1,50 @@
+[
+    {
+        "day": "Jeu30",
+        "time": "11:00",
+        "temperature": "19",
+        "wind_direction": "Ouest-Nord-Ouest : 301 °",
+        "wind_speed": "15",
+        "wind_gust": "35",
+        "rain": "--",
+        "humidity": "60 %",
+        "pressure": "1006 hPa",
+        "weather": "Peu nuageux"
+    },
+    {
+        "day": "Ven31",
+        "time": "02:00",
+        "temperature": "10",
+        "wind_direction": "Nord-Ouest : 307 °",
+        "wind_speed": "10",
+        "wind_gust": "15",
+        "rain": "--",
+        "humidity": "90 %",
+        "pressure": "1004 hPa",
+        "weather": "Peu nuageux"
+    },
+    {
+        "day": "Sam01",
+        "time": "02:00",
+        "temperature": "10",
+        "wind_direction": "Nord : 8 °",
+        "wind_speed": "5",
+        "wind_gust": "5",
+        "rain": "--",
+        "humidity": "81 %",
+        "pressure": "1010 hPa",
+        "weather": "Ciel clair"
+    },
+    {
+        "day": "Dim02",
+        "time": "02:00",
+        "temperature": "11",
+        "wind_direction": "Nord-Est : 51 °",
+        "wind_speed": "5",
+        "wind_gust": "5",
+        "rain": "--",
+        "humidity": "92 %",
+        "pressure": "1016 hPa",
+        "weather": "Mitigé"
+    }
+]
